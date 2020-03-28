@@ -10,7 +10,8 @@
 
 <p align="center">
   <a href="#sobre-aplicacao">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#comecando">Começando</a
+  <a href="#comecando">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#preview">Preview</a>
 </p>
 
 <br />
@@ -32,3 +33,10 @@ Ele será executado na porta 3333 do seu localhost, certifique-se que a porta es
 <p>Com todas as dependências instaladas, execute o comando <code>npm start</code> para inicializar a aplicação, que será executada
 na porta 3000 do seu localhost.</p>
 
+<br />
+
+<h2 id="preview">👀 Preview da Aplicação</h2>
+
+<p align="center">
+  <image src="https://github.com/lucasiori/gostack2020-modulo07/blob/master/.github/demo.gif" alt="Demo" />
+</p>
